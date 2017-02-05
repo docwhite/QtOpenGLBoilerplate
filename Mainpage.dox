@@ -1,26 +1,21 @@
-/*! \mainpage Exploring Particle Cell-like Growth
+/*! \mainpage Simple boilerplate for Qt's OpenGL functionality
  *
- * \section introduction_sec Introduction
+ * A simple boilerplate to get you started using Qt's new QOpenGL* features.
  *
- * This is the introduction.
+ * \section instructions_sec Instructions
  *
- * \section features_sec Introduction
+ *     $ git clone git@github.com:docwhite/QtOpenGLBoilerplate.git
+ *     $ cd QtOpenGLBoilerplate
+ *     $ qmake Boilerplate.pro
+ *     $ make
+ *     $ ./boilerplate
  *
- * Features include:
+ * \section documentation_sec Documentation
  *
- * * AO
- * * Splitting
+ * Build the simple documentation with **doxygen** or alternatively visit
+ * https://docwhite.github.com/QtOpenGLBoilerplate
  *
- * \section compiling_sec Compiling
+ *     $ doxygen Doxyfile
+ *     $ google-chrome docs/html/index.html
  *
- * This is the introduction.
- *
- * \section installing_sec Installing
- *
- * \section usage_sec Usage
- *
- * \subsection step1 Step 1: Opening the box
- * \subsection step1 Step 2: Opening the box
- *
- * etc...
  */

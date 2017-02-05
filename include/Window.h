@@ -24,7 +24,7 @@ class Window : public QOpenGLWindow
 public:
   //----------------------------------------------------------------------------
   /// @brief Constructor.
-  /// @param[in] Sets the upper class parent.
+  /// @param[in] parent Sets the upper class parent.
   //----------------------------------------------------------------------------
   Window(QWindow *parent = 0);
   //----------------------------------------------------------------------------
