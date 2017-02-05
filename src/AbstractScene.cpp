@@ -1,3 +1,9 @@
+//------------------------------------------------------------------------------
+/// @file AbstractScene.cpp
+/// @author Ramon Blanquer
+/// @version 0.0.1
+//------------------------------------------------------------------------------
+
 #include "AbstractScene.h"
 
 AbstractScene::AbstractScene(QOpenGLWindow *_window)

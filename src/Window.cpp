@@ -1,3 +1,9 @@
+//------------------------------------------------------------------------------
+/// @file Window.cpp
+/// @author Ramon Blanquer
+/// @version 0.0.1
+//------------------------------------------------------------------------------
+
 #include "Window.h"
 
 Window::Window(QWindow *parent) : QOpenGLWindow(NoPartialUpdate, parent)
