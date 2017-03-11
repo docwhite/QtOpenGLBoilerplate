@@ -4,6 +4,7 @@
 /// @version 0.0.1
 ////////////////////////////////////////////////////////////////////////////////
 
+// Project
 #include "Window.h"
 
 Window::Window(QWindow *parent) : QOpenGLWindow(NoPartialUpdate, parent)

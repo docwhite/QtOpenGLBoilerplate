@@ -4,9 +4,11 @@
 /// @version 0.0.1
 ////////////////////////////////////////////////////////////////////////////////
 
+// Qt
 #include <QGuiApplication>
 #include <QPropertyAnimation>
 
+// Project
 #include "Scene.h"
 #include "Window.h"
 
