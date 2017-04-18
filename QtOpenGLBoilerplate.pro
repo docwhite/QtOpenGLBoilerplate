@@ -26,5 +26,4 @@ HEADERS += \
 OTHER_FILES += \
     .gitignore \
     Doxyfile \
-    Mainpage.dox \
     README.md
